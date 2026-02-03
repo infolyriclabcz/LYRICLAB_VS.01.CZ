@@ -5,3 +5,5 @@ dist/
 .env.local
 .DS_Store
 Thumbs.db
+__trash_backup/
+__trash_mobile_backup/
